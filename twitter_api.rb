@@ -1,6 +1,7 @@
 require 'twitter'
 require './tweet.rb'
 
+
 class TwitterAPI
 
   CONSUMER_KEY = "YOUR KEY HERE"
