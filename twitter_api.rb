@@ -1,5 +1,5 @@
 require 'twitter'
-require './Tweet.rb'
+require './tweet.rb'
 
 class TwitterAPI
 
